@@ -1,0 +1,24 @@
+.red-card{
+    width: 263px;
+    background-color: #FF4F52;
+    border-radius: 10px;
+text-align: center;
+}
+p{
+    color: #fff;
+}
+h2{
+    color: #ffc4c9;
+}
+.blue-card{
+    width: 263px;
+    background-color: #4267b2;
+    border-radius: 10px;
+text-align: center;
+}
+.black-card{
+    width: 263px;
+    background-color: #262d33;
+    border-radius: 10px;
+text-align: center;
+}
